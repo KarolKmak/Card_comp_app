@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikacja Towarzysząca dla Gier Karcianych</string>
+    <string name="NewGame">Nowa Gra</string>
+    <string name="LoadGame">Wczytaj Grę</string>
+    <string name="CloseApp">Zamknij Aplikację</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="FiveCard">Poker Pięciokartowy</string>
+    <string name="Next">Dalej</string>
+    <string name="previous">Cofnij</string>
+
+
+
+    <string name="gracz_jeden">Gracz jeden</string>
+    <string name="gracz_dwa">Gracz dwa</string>
+    <string name="gracz_trzy">Gracz trzy</string>
+    <string name="gracz_cztery">Gracz Cztery</string>
+    <string name="gracz_pi">Gracz pięć</string>
+    <string name="gracz_sze">Gracz sześć</string>
+    <string name="gracz_siedem">Gracz siedem</string>
+    <string name="gracz_osiem">Gracz osiem</string>
+
+
+    <string name="w_grze">w grze</string>
+    <string name="w_banku">w banku</string>
+
+
+
+    <string name="FiveCardStartingText">Na początek gry potasuj talię i rozdaj każdemu graczowi po pięć kart w taki sposób by każdy gracz widział tylko swoje kart i nie mógł widzieć kart innych graczy.</string>
+    <string name="FiveCardPhaseOneText">Kolejna podpowiedź dotycząca gry...</string>
+
+</resources>

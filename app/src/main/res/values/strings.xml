@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Card Games Companion APP</string>
+    <string name="NewGame">New Game</string>
+    <string name="LoadGame">Load Game</string>
+    <string name="CloseApp">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="FiveCard">Five Card Draw</string>
+    <string name="Next">Next</string>
+    <string name="previous">Previous</string>
+
+
+
+    <string name="gracz_jeden">Player One</string>
+    <string name="gracz_dwa">Player Two</string>
+    <string name="gracz_trzy">Player Three</string>
+    <string name="gracz_cztery">Player Four</string>
+    <string name="gracz_pi">Player Five</string>
+    <string name="gracz_sze">Player Six</string>
+    <string name="gracz_siedem">Player Seven</string>
+    <string name="gracz_osiem">Player Eight</string>
+
+
+    <string name="w_grze">in game</string>
+    <string name="w_banku">in bank</string>
+
+
+
+    <string name="FiveCardStartingText">Na początek gry potasuj talię i rozdaj każdemu graczowi po pięć kart w taki sposób by każdy gracz widział tylko swoje kart i nie mógł widzieć kart innych graczy.</string>
+    <string name="FiveCardPhaseOneText">Kolejna podpowiedź dotycząca gry...</string>
+
+
+</resources>
