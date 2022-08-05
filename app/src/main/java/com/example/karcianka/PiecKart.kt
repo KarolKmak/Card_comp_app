@@ -16,19 +16,21 @@ class PiecKart : AppCompatActivity() {
             {
             0->findViewById<TextView>(R.id.HintText).text = getString(R.string.FiveCardStartingText)
             1->findViewById<TextView>(R.id.HintText).text = getString(R.string.FiveCardPhaseOneText)
+            2->findViewById<TextView>(R.id.HintText).text = getString(R.string.FiveCardPhaseTwoText)
+            3->findViewById<TextView>(R.id.HintText).text = getString(R.string.FiveCardPhaseThreeText)
             }
         }
 
         val btnNext = findViewById<Button>(R.id.BtnNext)
         btnNext.setOnClickListener{
-            if (faza==0)
+            if (faza<3)
             faza++
             podpowiedz(faza)
         }
 
         val btnWstecz = findViewById<Button>(R.id.BtnPrevious)
         btnWstecz.setOnClickListener{
-            if (faza==1)
+            if (faza>0)
             faza--
             podpowiedz(faza)
         }

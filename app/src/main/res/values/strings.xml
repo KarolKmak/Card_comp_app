@@ -27,6 +27,9 @@
 
     <string name="FiveCardStartingText">Na początek gry potasuj talię i rozdaj każdemu graczowi po pięć kart w taki sposób by każdy gracz widział tylko swoje kart i nie mógł widzieć kart innych graczy.</string>
     <string name="FiveCardPhaseOneText">Kolejna podpowiedź dotycząca gry...</string>
+    <string name="FiveCardPhaseTwoText">Druga podpowiedź dotycząca gry...</string>
+    <string name="FiveCardPhaseThreeText">Trzecia podpowiedź dotycząca gry...</string>
+
 
 
 </resources>
